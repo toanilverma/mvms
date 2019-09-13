@@ -1,0 +1,21 @@
+.frm{
+    background-color: white;
+    margin-left: 10px;
+    width:300px;
+    height: 300px;
+    z-index: 4;
+}
+
+.footer
+{
+margin-bottom: 0px;
+margin-top: 400px;
+align-content:center;
+background-color: #282c34;
+}
+
+.copyright{
+text-align: center;
+color: white;
+padding: 15px;
+}
