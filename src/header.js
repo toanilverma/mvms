@@ -5,8 +5,6 @@ import './App.css';
 import Slide from './slide';
 import LeftArrow from './left';
 import RightArrow from './right';
-import anil from '../src/images/Anil.jpg';
-import notebookdist from './images/notebookdist.jpg';
 import { BrowserRouter as  Link } from "react-router-dom";
 
 class Header extends Component{
