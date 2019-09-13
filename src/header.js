@@ -12,7 +12,7 @@ class Header extends Component{
     super(props);
     this.state = {
       images: [
-        './images/anil.jpg',
+        './images/Anil.jpg',
         './images/notebookdist.jpg' ,
         './images/village.jpg',
         './images/green.jpg',
